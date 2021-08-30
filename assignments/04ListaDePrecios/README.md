@@ -32,12 +32,24 @@ Después de que se teclee la letra X se debe mostrar el total de los artículos 
 
 **Ejemplo de la ejecución del programa:**  
 ```
->>>B              
-250               
->>>A                 
-120               
->>>X                 
-370 
+Teclea la clave A     
+120
+Teclea la clave X
+120
+
+
+
+Teclea la clave C
+360
+Teclea la clave B
+250
+Teclea la clave X
+610
+
+
+
+Teclea la clave X
+0
 ```
 
 **Nota:** No te preocupes por esta parte del código `if __name__ == '__main__':` por el momento. No la vamos a necesitar para este programa, pero es una buena práctica incluirla y quedará más claro para que sirve en los siguientes ejercicios.

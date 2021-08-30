@@ -27,13 +27,40 @@ La lista de números pares que están dentro de ese rango (incluyendo los límit
 
 **Ejemplos de ejecución del programa**
 ```
->>> 3
->>> 12
+3
+12
 4
 6
 8
 10
 12
+
+
+4
+16
+4
+6
+8
+10
+12
+14
+16
+
+
+2
+7
+2
+4
+6
+
+
+3
+10
+4
+6
+8
+10
+
 ```
 
 **Nota:** No te preocupes por esta parte del código `if __name__ == '__main__':` por el momento. No la vamos a necesitar para este programa, pero es una buena práctica incluirla y quedará más claro para que sirve en los siguientes ejercicios.

@@ -27,15 +27,43 @@ Cantidad de números pares que ingresó el usuario. El 0 cuéntalo como par. El 
 
 **Ejemplo de ejecución de un programa**  
 ```
->>> 4
->>> 3
->>> 11
->>> 42
->>> 0
->>> -2
+-5
+Total de pares=0
+
+
+8
+2
+6
+-8
 Total de pares=3
+
+
+1
+3
+5
+-1
+Total de pares=0
+
+
+
+8
+1
+9
+7
+-9
+Total de pares=1
+
+
+
+4
+0
+1
+3
+-2
+Total de pares=2
+
 ```
-(Son 3 números pares los ingresados, el 4, el 42 y el 0, el -2 es el negativo con el que terminamos el ciclo) 
+(Son 3 números pares los ingresados, el 4, el 42 y el 0, el -2 es el negativo con el que terminamos el ciclo)
 
 **Nota:** No te preocupes por esta parte del código `if __name__ == '__main__':` por el momento. No la vamos a necesitar para este programa, pero es una buena práctica incluirla y quedará más claro para que sirve en los siguientes ejercicios.
 

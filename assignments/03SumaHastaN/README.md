@@ -25,7 +25,7 @@ El resultado de la suma 1+2+3...+n
 
 **Ejemplo de ejecución del programa:**
 ```
->>>6
+6
 21
 ```
 
